@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Search2D")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0969c965f992c436f17f09a28ea7fe54e3cb674e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Search2D")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Search2D")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
